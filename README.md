@@ -1,9 +1,6 @@
 [![License:CC-BY](https://img.shields.io/badge/licence-CC--BY-green.svg)](https://img.shields.io/badge/licence-CC--BY-green.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-![License: CC-BY](https://img.shields.io/badge/licence-CC--BY-green.svg)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 # tfb-arakan-epigraphy
 DHARMA project Task Force B, Arakan epigraphic corpus.
 For more information, see the [website description](https://dharma.hypotheses.org/task-forces).
